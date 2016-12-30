@@ -1,5 +1,4 @@
 # mySite
-# Test on Merge...
 # my website index page
 # Fedora 25/ CentOS 7
 Learning how to use Git
