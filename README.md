@@ -1,5 +1,6 @@
 # mySite
 # my website index page
+# Learning how to use Git
 # (1) Test Test
    test, test, test...
 # (2) More Tests
